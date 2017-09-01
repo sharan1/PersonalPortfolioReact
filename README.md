@@ -1,12 +1,12 @@
 ## sharangirdhani.com
 
-Source code of my website (sharangirdhani.com)
+Source code of my website
 
 It has been built in __React__, __HTML__, __CSS__.
 
 Instead of creating a simple Wordpress website i decided to develop an Isomorphic/Universal React based website.  
 
-Or if you want to see it in action: http://sharangirdhani.com
+Or if you want to see it in action: https://d3iweu23maly4k.cloudfront.net/
 
 ## License
 
